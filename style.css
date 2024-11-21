@@ -1,0 +1,46 @@
+img {
+    width: 250px;
+}
+body {
+    text-align: center;
+    font-family: 'Arial';
+    font-size: 1.5rem;
+    color:rgb(147, 71, 201);
+    background-image: url('https://cdn.vectorstock.com/i/500p/99/06/abstract-dark-starry-sky-seamless-pattern-vector-51159906.jpg');
+    background-size: 50%;
+}
+#desc {
+    margin-left: 5cm;
+    margin-right: 5cm;
+}
+img{
+    box-shadow: 0 0 15px 10px rgb(147, 71, 201);
+    border-radius: 20px;
+}
+#e {
+    display:flex;
+    width: 100%;
+    justify-content:space-between;
+}
+#att {
+    display:flex;
+    justify-content:space-between;
+    margin-left: 5cm;
+    margin-right: 5cm;
+}
+#fax {
+    display:flex;
+    justify-content:space-between;
+    margin-left: 5cm;
+    margin-right: 5cm;
+}
+#meow {
+    display:flex;
+    justify-content:space-between;
+    margin-left: 5cm;
+    margin-right: 5cm;
+}
+#kisaki
+img {
+    width: 500px;
+}
